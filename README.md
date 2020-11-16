@@ -4,7 +4,7 @@
 
 
 
-Meu Taku was build to help people wo like to have a full control off they budget, the app offer an simple UI for insert the incomes and outcomes.
+Meu Taku was build to help people who like to have a full control off they budget, the app offer an simple UI for insert the incomes and outcomes.
 All code was build use a pure Javascript ES5 and HTML.
 The project its fully openSource and fell free to contributte
 
