@@ -1,5 +1,5 @@
 # Meu Taku
-![alt text](https://github.com/Dnhatsave/meuTaku/blob/master/src/img/demo.gif?raw=true)
+![alt text](https://github.com/Dnhatsave/meuTaku/blob/main/src/img/demo.gif?raw=true)
 
 
 
