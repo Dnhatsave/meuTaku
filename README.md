@@ -25,4 +25,6 @@ to use the application you only have an internet navigator installed such as Moz
 * Display a graphical reports for each month
 * Better management suggestions for the coming months
 
-# meuTaku
+# Authors
+* Dércio Nhatsave
+
