@@ -20,10 +20,9 @@ to use the application you only have an internet navigator installed such as Moz
 
 # TODO
 
-* Create a REST API;
-* Show a budget history for each month;
-* Display a graphical reports for each month
-* Better management suggestions for the coming months
+* Create a mobile version for android and ios using flutter
+* Show a budget history and display grapical reports for each month;
+* Better management suggestions for the coming months for register users
 
 # Authors
 * Dércio Nhatsave
